@@ -1,7 +1,0 @@
-{
-  "name": "appleApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}

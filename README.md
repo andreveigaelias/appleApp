@@ -1,2 +1,0 @@
-# appleApp
-Teste Login Apple
